@@ -1,4 +1,4 @@
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# Ian Kinney's Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
 
